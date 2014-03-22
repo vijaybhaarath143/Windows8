@@ -1,0 +1,56 @@
+﻿.AreaDiv1
+{
+    border: 5px solid white; width:300px; height:200px; background-color:#0B2F3A; overflow:hidden;
+}
+
+.AreaDiv1:hover
+{
+    background-color:#0489B1;
+    
+}
+
+.AreaDiv2
+{
+    border: 5px solid white; width:300px; height:200px; margin-left:300px; margin-top: -210px;background-color:#0B4C5F; position: absolute;
+}
+.AreaDiv2:hover
+{
+    background-color:#0489B1;
+    
+}
+.AreaDiv3
+{
+    border: 5px solid white; width:400px; height:200px;margin-left:600px; margin-top: -210px;background-color:#086A87; position: absolute;
+}
+.AreaDiv3:hover
+{
+    background-color:#0489B1;
+    
+}
+.AreaDiv4
+{
+    border: 5px solid white; width:1000px; height:200px; background-color:#086A87; position: absolute; margin-top: -5px;
+}
+.AreaDiv4:hover
+{
+    background-color:#0489B1;
+    
+}
+.AreaDiv5
+{
+    border: 5px solid white; width:500px; height:195px;background-color:#0B4C5F; position: absolute; margin-top: 200px;
+}
+.AreaDiv5:hover
+{
+    background-color:#0489B1;
+    
+}
+.AreaDiv6
+{
+    border: 5px solid white; width:500px; height:195px;background-color:#0B2F3A; margin-left:500px; margin-top: 200px; position: absolute;
+}
+.AreaDiv6:hover
+{
+    background-color:#0489B1;
+    
+}
